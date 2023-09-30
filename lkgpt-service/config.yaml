@@ -10,10 +10,10 @@ logging:
   level: debug
 
 livekit:
-  url: your-livekit-url
-  api_key: your-api-token
-  secret_key: your-api-secret
+  url: wss://hackrtc-usisftuh.livekit.cloud
+  api_key: APIKJJfnudFpKp9
+  secret_key: HyP5ewz6Ot48sH0areQs5hidL5eflfFqYGr9wJO1ArlA
 
-openai_api_key: your-openai-api-key
+openai_api_key: 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
 
 port: 3001
